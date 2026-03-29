@@ -15,11 +15,11 @@ The project is split into a decoupled client-server architecture:
 4.  **Contextual Awareness:** The generation prompt allows for "user context," enabling the LLM to steer persona creation toward specific industries, locations, or roles based on user needs.
 
 #### How to Use
-Ensure Ollama is installed with the model `llama3.2:latest` downloaded using `ollama pull llama3.2:latest`
-Ensure all libraries are installed, install them using `pip install flask flask-cors requests`
-Ensure Ollama is serving on port 11434 (just put `ollama list` in a window or run `ollama serve`)
-Run `app.py` to start the Flask server
-Double-click `index.html` to start
+1. Ensure Ollama is installed with the model `llama3.2:latest` downloaded using `ollama pull llama3.2:latest`
+2. Ensure all libraries are installed, install them using `pip install flask flask-cors requests`
+3. Ensure Ollama is serving on port 11434 (just put `ollama list` in a window or run `ollama serve`)
+4. Run `app.py` to start the Flask server
+5. Double-click `index.html` to start
 
 #### Tech Stack
 *   **Frontend:** Tailwind CSS, Lucide Icons, Vanilla JavaScript.
