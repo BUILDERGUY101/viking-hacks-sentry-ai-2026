@@ -5,7 +5,7 @@ Sentry AI is a full-stack identity generation engine designed for data obfuscati
 The project is split into a decoupled client-server architecture:
 
 *   **Backend (Python/Flask):** Acts as the orchestration layer. It manages persona persistence via a flat-file JSON database and interfaces with local Large Language Models (LLMs) for content generation.
-*   **Generation Engine (Ollama Integration):** Utilizes `llama3.2` (3b) via a local Ollama API. This ensures that the generation process remains private and offline. It employs structured prompt engineering to produce specific JSON-mapped fields while using Python-based algorithmic generators for deterministic data (SSNs, phone numbers, and age distributions).
+*   **Generation Engine (Ollama Integration):** Utilizes `llama3.2:latest` (3b) via a local Ollama API. This ensures that the generation process remains private and offline. It employs structured prompt engineering to produce specific JSON-mapped fields while using Python-based algorithmic generators for deterministic data (SSNs, phone numbers, and age distributions).
 *   **Frontend (HTML5/Tailwind/JS):** A single-page application (SPA) that provides a dashboard for persona management and a visual "Merger Workspace."
 
 #### Key Features
