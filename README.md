@@ -17,7 +17,7 @@ The project is split into a decoupled client-server architecture:
 #### How to Use
 1. Ensure Ollama is installed with the model `llama3.2:latest` downloaded using `ollama pull llama3.2:latest`
 2. Ensure all libraries are installed, install them using `pip install flask flask-cors requests`
-3. Ensure Ollama is serving on port 11434 (just put `ollama list` in a window or run `ollama serve`)
+3. Ensure Ollama is serving on port 11434 (just run `ollama list` in a window or run `ollama serve` and keep it open)
 4. Run `app.py` to start the Flask server
 5. Double-click `index.html` to start
 
