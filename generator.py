@@ -1,6 +1,5 @@
 import requests
 import re
-import json
 import random
 import string
 import datetime
