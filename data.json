@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Nalani Slade Olusegun",
+        "emoji": "\ud83d\udccd",
+        "job": "Cartography Services Inc.",
+        "position": "Senior Route Optimizer",
+        "bio": "As a seasoned cartographer with years of experience in navigation, I've learned to weave the threads of geography and human connection together.",
+        "interests": "Geocaching, Hiking, Urban Exploration",
+        "personal_info": {
+            "education": "University of California, Berkeley, MS in Cartography",
+            "email": "nalani.sladeolusegun@gmail.com",
+            "address": "1456 Oak St, Portland, OR 97201",
+            "age": "59",
+            "birthday": "1967-01-29",
+            "ssn": "267-72-2056",
+            "phone": "(919) 955-8475",
+            "gender": "Female"
+        },
+        "id": 1774744695636
+    },
+    {
+        "name": "Meiling Li",
+        "emoji": "\ud83d\ude0a",
+        "job": "Graphics Engineer at NVIDIA",
+        "position": "Senior GPU Architect",
+        "bio": "With 8 years of experience in the field, she has developed a deep understanding of GPU architecture and its applications in AI and gaming.",
+        "interests": "Reading computer science literature, Hiking in the Chinese mountains, Learning calligraphy",
+        "personal_info": {
+            "education": "Tsinghua University, Master's in Computer Science",
+            "email": "mlie@outlook.com",
+            "address": "123 Nanjing East Road, Shanghai, 200001, China",
+            "age": "30",
+            "birthday": "1996-05-26",
+            "ssn": "864-35-5168",
+            "phone": "(732) 720-5192",
+            "gender": "Female"
+        },
+        "id": 1774744563208
+    },
+    {
+        "name": "Ethan Slade",
+        "emoji": "\ud83c\udf0a",
+        "job": "Coast Guard Petty Officer",
+        "position": "Senior Navigation Specialist",
+        "bio": "With over 35 years of experience at sea, I've seen my fair share of storms and calm waters alike.",
+        "interests": "Scuba diving, sailing, woodworking",
+        "personal_info": {
+            "education": "Bachelor's degree in Marine Science from University of Maine",
+            "email": "ethan.slade@coastguard.gov",
+            "address": "1425 Oceanview Drive, Bar Harbor, ME 04609",
+            "age": "61",
+            "birthday": "1965-10-10",
+            "ssn": "187-35-2748",
+            "phone": "(616) 556-6665",
+            "gender": "Male"
+        },
+        "id": 1774744510330
+    },
+    {
+        "name": "Ava Morales",
+        "emoji": "\ud83c\udf39",
+        "job": "Environmental Conservation Specialist at GreenEarth Org.",
+        "position": "Senior Ecologist",
+        "bio": "With over three decades of experience in environmental conservation, Ava has developed a unique approach to sustainable development that balances human needs with ecosystem preservation.",
+        "interests": "Gardening, Birdwatching, Hiking",
+        "personal_info": {
+            "education": "Harvard University, Master's in Environmental Science",
+            "email": "amorales@greenearth.org",
+            "address": "1456 Oak St, Santa Fe, NM 87501",
+            "age": "60",
+            "birthday": "1966-12-21",
+            "ssn": "314-90-4844",
+            "phone": "(947) 473-2068",
+            "gender": "Female"
+        },
+        "id": 1774744075754
+    },
+    {
+        "name": "Amaka Olusegun",
+        "emoji": "\ud83d\udc75",
+        "job": "Market Trader",
+        "position": "Shop Assistant",
+        "bio": "Having grown up in a large extended family, Amaka developed strong interpersonal skills at an early age, essential for her role as a market trader.",
+        "interests": "cooking, gardening, reading traditional Yoruba literature",
+        "personal_info": {
+            "education": "University of Ibadan, Bachelor of Science in Business Administration",
+            "email": "olusegunamaka2003@gmail.com",
+            "address": "34 Idiroko Street, Abeokuta, Ogun State, 110001",
+            "age": "80",
+            "birthday": "1946-05-21",
+            "ssn": "164-59-3859",
+            "phone": "(863) 437-8893",
+            "gender": "Female"
+        },
+        "id": 1774742996661
+    },
+    {
+        "name": "Koji Nakamura",
+        "emoji": "\ud83d\udcbc",
+        "job": "Kyoto Guided Tours",
+        "position": "Operations Manager",
+        "bio": "With over 20 years of experience in expedition management, I bring a unique blend of leadership and cultural expertise to our guided tours.",
+        "interests": "N/A",
+        "personal_info": {
+            "education": "N/A",
+            "email": "koji.nakamura@gmail.com",
+            "address": "123 Japan Street, Kyoto, 60401",
+            "age": "47",
+            "birthday": "1979-06-17",
+            "ssn": "552-51-4772",
+            "phone": "(980) 613-1816",
+            "gender": "Male"
+        },
+        "id": 1774742198234
+    }
+]
